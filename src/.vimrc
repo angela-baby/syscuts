@@ -64,6 +64,10 @@ func! Run()
     if &filetype == 'python'
         exec "!python3 %"
     endif
+
+    if &filetype == 'sh'
+        exec "!source %"
+    endif
 endfunc
 
 func! Test()

@@ -1,0 +1,49 @@
+时间：2017年 08月 11日 星期五 09:03:01 CST
+
+正在停止正在运行的容器
+
+"docker stop" requires at least 1 argument(s).
+See 'docker stop --help'.
+
+Usage:  docker stop [OPTIONS] CONTAINER [CONTAINER...]
+
+Stop one or more running containers
+正在删除已经停止的容器
+
+c7efbec89ac5
+正在启动phpmyadmin容器
+
+ac3cd0ac58a9d2444244a71108aa4365c0937b673d810747314d16fed4607a1d
+时间：2017年 08月 11日 星期五 10:30:26 CST
+
+正在停止正在运行的容器
+
+ac3cd0ac58a9
+正在删除已经停止的容器
+
+ac3cd0ac58a9
+正在启动phpmyadmin容器
+
+88277ced87c83f482fc3261eb10ba107c126c821eeba214a7eab8758b1ee3458
+时间：2017年 08月 11日 星期五 10:30:38 CST
+
+正在停止正在运行的容器
+
+88277ced87c8
+正在删除已经停止的容器
+
+88277ced87c8
+正在启动phpmyadmin容器
+
+9c90e5682edf79797e7542a5a3c231545a3c9526796ed82b5d51bcb45afd7477
+时间：2017年 08月 11日 星期五 10:30:40 CST
+
+正在停止正在运行的容器
+
+9c90e5682edf
+正在删除已经停止的容器
+
+9c90e5682edf
+正在启动phpmyadmin容器
+
+70e80e50ebcddd3e5552b10f0695221b2b79ab50cd2f3463a414e91cd4d62418
